@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor en la cama
+
+This log tracks the cryptographic history and versioning for the song **Calor en la cama** (calor-en-la-cama).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:51:24.088425 | `v1` | `6c34604eae8d27203c5c7820e304d01905bd01d42c48973feba40cd0a38316e9` | `75ab1c9ae3f1f8c3cca589ac8ed51a2e2387d828260c1146f425e53815124152` | `2026-06-17_calor-en-la-cama-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

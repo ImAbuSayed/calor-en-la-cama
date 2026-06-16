@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-la-cama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Calor en la cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-la-cama/) |
+| **Get License** | [Official Music Licensing for Calor en la cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-la-cama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6c34604eae8d27203c5c7820e304d01905bd01d42c48973feba40cd0a38316e9` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
