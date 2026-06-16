@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-en-la-cama/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Calor en la cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-la-cama/) |
+| **Get License** | [Music Rights & Licensing for Calor en la cama](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-en-la-cama/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la noche de repente se enciende
+> Esta tensión que tenemos, baby, ya no se esconde
+> Siento el fuego de tu cuerpo cuando a mí me respondes
+> Dame un beso en lo oscuro donde nadie nos cuente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
